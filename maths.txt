@@ -1,0 +1,10 @@
+Q. Who discovered 0? 1.Ramanujan 2.Aryabhatta 3.C.V. raman
+Q. Which of the following was a mathematician? 1.Newton 2.C.V.raman 3.Einstein
+Q. Which mathematician is known as father as algebra? 1.Aryabhatta 2.Ramanujan 3.Einstein
+Q. Where was world's 1st higher mathematics university was set up? 1.London 2.Stanford 3.Nalanda
+Q. On which of the following mathematicians name is a tele-communication satellite working? 1.Aryabhatta 2.C.V.raman 3.Ramanujan 
+Q. When did CV Raman win noble prize? 1.1921 2.1930 3.1926
+Q. Which term in the series is wrong? 11,5,20,12,40,26,74,54     1.5  2.20 3.40
+Q. pythagorus theorem works well in which triangle?  1.right angled  2.scalene  3.isosceles
+Q. Who invented pie ? 1.william jones 2.archemidies 3.aryabhatta
+Q. Who invented decimal system? 1.simon stevin 2.John Napier 3.aryabhatta

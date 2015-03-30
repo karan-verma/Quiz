@@ -1,0 +1,10 @@
+Q. Who discovered three laws of motion?	1.Isaac Newton 2.Albert Einstein 3.Neil Bohr
+Q. Who discovered bulb?	1.Maxwell 2.Thomas alva edison 3.Faraday
+Q. Who discovered radio-activity? 1.Peirre curie 2.Madame curie	3.Rutherford
+Q. Who is called father of quantum mechanics? 1.Bohr 2.Rutherford 3.Einstein
+Q. Who gave the theory of existence of quantum of mass?	1.Alfred Feynemann 2.Eistein 3.Jason Higgs
+Q. Nuclear sizes are expressed in a unit named? 1.Fermi 2.Angstrom 3.Tesla
+Q. Pa(Pascal) is the unit for? 1.Thrust 2.Pressure 3.Conductivity
+Q. Light year is a unit of? 1.Distance 2.Light 3.Intensity of light
+Q. Pick out the scalar quantity? 1.Force 2.Pressure 3.Acceleration
+Q. Sound waves in air are? 1.Transverse 2.Longitudinal 3.Polarised
